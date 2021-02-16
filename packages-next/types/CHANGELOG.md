@@ -1,5 +1,17 @@
 # @keystone-next/types
 
+## 14.0.0
+
+### Major Changes
+
+- [`0f86e99bb`](https://github.com/keystonejs/keystone/commit/0f86e99bb3aa15f691ab7ff79e5a9ae3d1ac464e) [#4839](https://github.com/keystonejs/keystone/pull/4839) Thanks [@timleslie](https://github.com/timleslie)! - Removed `context.graphql.createContext` from `KeystoneContext`.
+
+### Patch Changes
+
+- [`687fd5ef0`](https://github.com/keystonejs/keystone/commit/687fd5ef0f798da996f970af1591411f9cfe0985) [#4835](https://github.com/keystonejs/keystone/pull/4835) Thanks [@timleslie](https://github.com/timleslie)! - Removed the unused `connect` and `disconnect` properties of `SessionStrategy`.
+
+* [`45ea93421`](https://github.com/keystonejs/keystone/commit/45ea93421f9a6cf9b7ccbd983e0c9cbd687ff6af) [#4810](https://github.com/keystonejs/keystone/pull/4810) Thanks [@mitchellhamilton](https://github.com/mitchellhamilton)! - Replaced usage of `React.ComponentType` with more accurate types that do not automatically add `children` prop.
+
 ## 13.0.0
 
 ### Major Changes

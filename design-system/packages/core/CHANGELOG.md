@@ -1,5 +1,11 @@
 # @keystone-ui/core
 
+## 2.0.1
+
+### Patch Changes
+
+- [`3ca5038a0`](https://github.com/keystonejs/keystone/commit/3ca5038a021105a7452f4e7a4641107caa4ffe3a) [#4856](https://github.com/keystonejs/keystone/pull/4856) Thanks [@mitchellhamilton](https://github.com/mitchellhamilton)! - Stopped enabling lignatures with the `optimizeLegibility` prop in `Core`
+
 ## 2.0.0
 
 ### Major Changes

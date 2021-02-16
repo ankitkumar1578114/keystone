@@ -1,5 +1,26 @@
 # @keystone-next/keystone
 
+## 11.0.0
+
+### Major Changes
+
+- [`d9c20ba66`](https://github.com/keystonejs/keystone/commit/d9c20ba66931077f6e18d3497282be328cfb629f) [#4832](https://github.com/keystonejs/keystone/pull/4832) Thanks [@timleslie](https://github.com/timleslie)! - Replaced the function `implementSession` with `createSessionContext`.
+
+* [`0f86e99bb`](https://github.com/keystonejs/keystone/commit/0f86e99bb3aa15f691ab7ff79e5a9ae3d1ac464e) [#4839](https://github.com/keystonejs/keystone/pull/4839) Thanks [@timleslie](https://github.com/timleslie)! - Removed `context.graphql.createContext` from `KeystoneContext`.
+
+### Patch Changes
+
+- [`687fd5ef0`](https://github.com/keystonejs/keystone/commit/687fd5ef0f798da996f970af1591411f9cfe0985) [#4835](https://github.com/keystonejs/keystone/pull/4835) Thanks [@timleslie](https://github.com/timleslie)! - Removed the unused `connect` and `disconnect` properties of `SessionStrategy`.
+
+* [`fdb9d9abb`](https://github.com/keystonejs/keystone/commit/fdb9d9abbe1ea24a2dbb9ce6f755c713966601aa) [#4834](https://github.com/keystonejs/keystone/pull/4834) Thanks [@timleslie](https://github.com/timleslie)! - Updated `withItemData` to still return the rest of the `session` object if no item was found.
+
+- [`c8cf7fb1f`](https://github.com/keystonejs/keystone/commit/c8cf7fb1fb7484d46a7e8b7c6c0b638ceae70d1a) [#4854](https://github.com/keystonejs/keystone/pull/4854) Thanks [@timleslie](https://github.com/timleslie)! - Added more specific types to implementation of access control validators.
+
+- Updated dependencies [[`687fd5ef0`](https://github.com/keystonejs/keystone/commit/687fd5ef0f798da996f970af1591411f9cfe0985), [`d9c20ba66`](https://github.com/keystonejs/keystone/commit/d9c20ba66931077f6e18d3497282be328cfb629f), [`45ea93421`](https://github.com/keystonejs/keystone/commit/45ea93421f9a6cf9b7ccbd983e0c9cbd687ff6af), [`0f86e99bb`](https://github.com/keystonejs/keystone/commit/0f86e99bb3aa15f691ab7ff79e5a9ae3d1ac464e)]:
+  - @keystone-next/types@14.0.0
+  - @keystone-next/admin-ui@10.0.0
+  - @keystone-next/fields@5.0.1
+
 ## 10.0.0
 
 ### Major Changes

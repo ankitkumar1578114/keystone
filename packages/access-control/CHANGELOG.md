@@ -1,5 +1,11 @@
 # @keystonejs/access-control
 
+## 7.0.1
+
+### Patch Changes
+
+- [`15b1132d2`](https://github.com/keystonejs/keystone/commit/15b1132d20d13f79bbf1707e1897b31da887c2b7) [#4853](https://github.com/keystonejs/keystone/pull/4853) Thanks [@timleslie](https://github.com/timleslie)! - Updated types to be parameterised by imperative argument type.
+
 ## 7.0.0
 
 ### Major Changes

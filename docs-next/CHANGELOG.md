@@ -1,5 +1,19 @@
 # @keystone-next/website
 
+## 1.1.0
+
+### Minor Changes
+
+- [`f4163a06d`](https://github.com/keystonejs/keystone/commit/f4163a06d27fcb106a0159711010e0087eebc945) [#4838](https://github.com/keystonejs/keystone/pull/4838) Thanks [@gwyneplaine](https://github.com/gwyneplaine)! - Added anchoring and copy to clipboard functionality to headings
+
+### Patch Changes
+
+- [`f4163a06d`](https://github.com/keystonejs/keystone/commit/f4163a06d27fcb106a0159711010e0087eebc945) [#4838](https://github.com/keystonejs/keystone/pull/4838) Thanks [@gwyneplaine](https://github.com/gwyneplaine)! - Remove backticks from headings in docs
+
+- Updated dependencies [[`556c1f95f`](https://github.com/keystonejs/keystone/commit/556c1f95f287035493704d6f5d9744fd5e9774b6), [`556c1f95f`](https://github.com/keystonejs/keystone/commit/556c1f95f287035493704d6f5d9744fd5e9774b6), [`556c1f95f`](https://github.com/keystonejs/keystone/commit/556c1f95f287035493704d6f5d9744fd5e9774b6), [`556c1f95f`](https://github.com/keystonejs/keystone/commit/556c1f95f287035493704d6f5d9744fd5e9774b6), [`3ca5038a0`](https://github.com/keystonejs/keystone/commit/3ca5038a021105a7452f4e7a4641107caa4ffe3a)]:
+  - @keystone-next/fields-document@3.0.0
+  - @keystone-ui/core@2.0.1
+
 ## 1.0.0
 
 ### Major Changes
